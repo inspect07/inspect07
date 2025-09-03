@@ -15,12 +15,9 @@ for freelance work? do reach, [email](mailto:inspectph@gmail.com) :D
 
 
 ### Open Source & npm Packages
-### [`@inspectph/react-easy-router`](https://github.com/inspect07/inspectph-react-easy-router)  
-[![npm version](https://img.shields.io/npm/v/@inspectph/react-easy-router?color=blue&logo=npm)](https://www.npmjs.com/package/@inspectph/react-easy-router)  
+### [`@inspectph/react-easy-router`](https://github.com/inspect07/inspectph-react-easy-router)  [![npm version](https://img.shields.io/npm/v/@inspectph/react-easy-router?color=blue&logo=npm)](https://www.npmjs.com/package/@inspectph/react-easy-router)  
 A simple and lightweight router solution for React applications.  
-### [`@inspectph/reacttw-bread-crumbs`](https://github.com/inspect07/inspectph-reacttw-bread-crumbs)  
-[![npm version](https://img.shields.io/npm/v/@inspectph/reacttw-bread-crumbs?color=blue&logo=npm)](https://www.npmjs.com/package/@inspectph/reacttw-bread-crumbs)  
+### [`@inspectph/reacttw-bread-crumbs`](https://github.com/inspect07/inspectph-reacttw-bread-crumbs)  [![npm version](https://img.shields.io/npm/v/@inspectph/reacttw-bread-crumbs?color=blue&logo=npm)](https://www.npmjs.com/package/@inspectph/reacttw-bread-crumbs)  
 A reusable breadcrumbs component library leveraging React and Tailwind CSS. 
-### [`inspreact`](https://github.com/inspect07/inspreact)  
-[![npm version](https://img.shields.io/npm/v/inspreact?color=blue&logo=npm)](https://www.npmjs.com/package/inspreact)  
+### [`inspreact`](https://github.com/inspect07/inspreact)  [![npm version](https://img.shields.io/npm/v/inspreact?color=blue&logo=npm)](https://www.npmjs.com/package/inspreact)  
 A custom React utilities package for streamlined component development. 
